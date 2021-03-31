@@ -1,5 +1,5 @@
-{"burgers":
-  [
+{
+  "burgers": [
     {
       "id": 1,
       "name": "Good Burger",
@@ -61,10 +61,16 @@
       "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg"
     },
     {
-      "id": 11,
-      "name": "Cow-abunga",
-      "description": "Mooooo",
-      "image": "http://www.foodwithfeelings.com/wp-content/uploads/2013/06/ab44_the-fat-cow-ramsay-gordon-6-e1352887255279.jpg"
+      "name": "krabby patty",
+      "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg",
+      "description": "from spongebob",
+      "id": 13
+    },
+    {
+      "name": "krabby patty",
+      "image": "https://www.organicfacts.net/wp-content/uploads/spinach.jpg",
+      "description": "from spongebob",
+      "id": 14
     }
   ]
 }
